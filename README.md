@@ -9,6 +9,16 @@ In the contemporary educational landscape, the convergence of digital technologi
 # problem statement
 Despite the advancements in educational technology, traditional learning approaches often fail to address the diverse needs and preferences of students in today's digital age. Students encounter various challenges, including limited access to personalized learning support, difficulty in navigating vast educational resources, and a lack of engagement in traditional learning environments. Furthermore, educators face the daunting task of catering to individual student needs while managing large class sizes and diverse learning abilities. In this context, the problem statement revolves around the need to bridge the gap between traditional education models and the evolving needs of modern learners. There is a pressing need for an innovative solution that can provide personalized learning support, foster engagement, and empower students to take control of their learning journey. Additionally, educators require tools that can augment their teaching efforts, streamline administrative tasks, and facilitate differentiated instruction.
 
+# instructions to run the project
+1.you need to check the api key.
+
+2.install python above 3.10
+
+3.import libraries
+
+ [ pip install uagents]
+ [ pip install transformers ]
+ [ pip install ai_engine]
 
 
 # Conclusion
