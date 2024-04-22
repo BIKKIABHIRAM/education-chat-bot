@@ -16,9 +16,11 @@ Despite the advancements in educational technology, traditional learning approac
 
 3.import libraries
 
- [ pip install uagents]
- [ pip install transformers ]
- [ pip install ai_engine]
+    [ pip install uagents]
+    
+    [ pip install transformers ]
+    
+    [ pip install ai_engine]
 
 
 # Conclusion
